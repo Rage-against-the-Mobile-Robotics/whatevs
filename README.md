@@ -1,2 +1,2 @@
-# notes
-Collection of our notes on papers and stuff.
+# note
+don't try this at home
